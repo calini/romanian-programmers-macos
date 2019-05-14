@@ -1,4 +1,4 @@
-# Romanian Programmers Mac Keyboard Layout
+# Romanian Programmers Keyboard Layout for macOS
 
 This mac keyboard layout has popped up on the internet before, but it's description/locale/icon is always wrong and it looks really confusing.
 
