@@ -1,10 +1,10 @@
-# ro-prog-keys - Romanian Programmers Mac Keyboard Layout
+# Romanian Programmers Mac Keyboard Layout
 
 This mac keyboard layout has popped up on the internet before, but it's description/locale/icon is always wrong and it looks really confusing.
 
 I have created an iconset that macOS will use to display this keylayout nicely in `System Preferences/Keyboard/Input Sources` and in the macOS menu bar icon, and I have bundled it nicely with the keylayout.
 
-Romanian - Programmers allows easy input of Romanian diacritics:
+Romanian - Programmers allows easy input of Romanian diacritics using the `alt` key:
 
 * `alt+a` -> `ă`
 * `alt+q` -> `â`
