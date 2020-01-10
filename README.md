@@ -18,7 +18,7 @@ To install this keyboard layout you need to move the `Romanian - Programmers.bun
 
 ```bash
 $ git clone https://github.com/calini/ro-prog-keys.git
-$ mv ro-prog-keys/Romanian\ -\ Programmers.bundle /Library/Keyboard\ Layouts/
+$ sudo cp -r ro-prog-keys/Romanian\ -\ Programmers.bundle /Library/Keyboard\ Layouts/
 ```
 
 ## Screenshots
