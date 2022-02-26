@@ -27,7 +27,7 @@ It shows up under the Romanian section, like the default ones.
 ![1](screenshots/1.png)
 This is the keyboard layout:
 ![2](screenshots/2.png)
-While holding `cmd`:
+While holding `option`:
 ![3](screenshots/3.png)
-While holding `cmd+shift`:
+While holding `option+shift`:
 ![4](screenshots/4.png)
