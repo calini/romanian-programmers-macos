@@ -15,7 +15,7 @@ Romanian - Programmers allows easy input of Romanian diacritics using the `alt` 
 To install this keyboard layout you need to move the `Romanian - Programmers.bundle` file to `/Library/Keyboard Layouts/`
 
 ```bash
-$ git clone https://github.com/calini/romanian-programmers-macos.git /tmp/romanian-programmers-macos && sudo cp -r /tmp/romanian-programmers-macos/Romanian\ -\ Programmers.bundle /Library/Keyboard\ Layouts/
+git clone https://github.com/calini/romanian-programmers-macos.git /tmp/romanian-programmers-macos && sudo cp -r /tmp/romanian-programmers-macos/Romanian\ -\ Programmers.bundle /Library/Keyboard\ Layouts/
 ```
 
 ## Screenshots
