@@ -1,7 +1,5 @@
 # Romanian - Programmers, a macOS Keyboard Layout
 
-This macOS keyboard layout has popped up on the internet before, I have only changed its definition and created an iconset with a Romanian flag, so it's in line with the other Romanian layouts. 
-
 Romanian - Programmers allows easy input of Romanian diacritics using the `alt` key:
 
 * `alt+a` -> `ă`
@@ -9,6 +7,8 @@ Romanian - Programmers allows easy input of Romanian diacritics using the `alt` 
 * `alt+i` -> `î`
 * `alt+s` -> `ș`
 * `alt+t` -> `ț`
+
+This macOS keyboard layout has popped up on the internet before, I have only changed its definition and created an iconset with a Romanian flag, so it's in line with the other Romanian layouts. 
 
 ## Installation
 
