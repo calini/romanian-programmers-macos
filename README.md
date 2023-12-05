@@ -15,7 +15,7 @@ This macOS keyboard layout has popped up on the internet before, I have only cha
 To install this keyboard layout you need to move the `Romanian - Programmers.bundle` file to `/Library/Keyboard Layouts/`
 
 ```bash
-curl -L https://github.com/calini/romanian-programmers-macos/releases/download/v1.0/Romanian.-.Programmers.bundle.zip | sudo tar xvz -C /Library/Keyboard\ Layouts/
+curl -L https://github.com/calini/romanian-programmers-macos/releases/latest/download/Romanian.-.Programmers.bundle.zip | sudo tar xvz -C /Library/Keyboard\ Layouts/
 ```
 
 ## Screenshots
