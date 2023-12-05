@@ -1,6 +1,6 @@
-# Romanian Programmers Keyboard Layout for macOS
+# Romanian - Programmers, a macOS Keyboard Layout
 
-This macOS keyboard layout has popped up on the internet before, and I have changed it's definition to fit under Romanian and created an iconset with a Romanian flag, so it looks in line with the other options. 
+This macOS keyboard layout has popped up on the internet before, I have only changed its definition and created an iconset with a Romanian flag, so it's in line with the other Romanian layouts. 
 
 Romanian - Programmers allows easy input of Romanian diacritics using the `alt` key:
 
@@ -15,7 +15,7 @@ Romanian - Programmers allows easy input of Romanian diacritics using the `alt` 
 To install this keyboard layout you need to move the `Romanian - Programmers.bundle` file to `/Library/Keyboard Layouts/`
 
 ```bash
-git clone https://github.com/calini/romanian-programmers-macos.git /tmp/romanian-programmers-macos && sudo cp -r /tmp/romanian-programmers-macos/Romanian\ -\ Programmers.bundle /Library/Keyboard\ Layouts/
+curl -L https://github.com/calini/romanian-programmers-macos/releases/download/v1.0/Romanian.-.Programmers.bundle.zip | sudo tar xvz -C /Library/Keyboard\ Layouts/
 ```
 
 ## Screenshots
